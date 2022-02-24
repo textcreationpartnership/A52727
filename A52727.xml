@@ -1,0 +1,1080 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The right way to promote reformation in a sermon preached at Warrington upon the 18th of Octob. 1698, at the appointment of the ministers there met, and at the request of some, published for the use of others / by James Naylor.</title>
+            <author>Naylor, James, 1617?-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52727</idno>
+            <idno type="STC">Wing N333</idno>
+            <idno type="STC">ESTC R31711</idno>
+            <idno type="EEBO-CITATION">12246909</idno>
+            <idno type="OCLC">ocm 12246909</idno>
+            <idno type="VID">56977</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52727)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56977)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1509:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The right way to promote reformation in a sermon preached at Warrington upon the 18th of Octob. 1698, at the appointment of the ministers there met, and at the request of some, published for the use of others / by James Naylor.</title>
+                  <author>Naylor, James, 1617?-1660.</author>
+               </titleStmt>
+               <extent>54 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect : pages tightly bound, with print showthrough and some loss of print.  Best copy available for photographing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Christian life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56977:1" rendition="simple:additions"/>
+            <pb facs="tcp:56977:1"/>
+            <pb facs="tcp:56977:2"/>
+            <pb facs="tcp:56977:2"/>
+            <p>The Right Way To Promote <hi>Reformation.</hi>
+            </p>
+            <p>In A SERMON, Preached at <hi>Warrington,</hi> Upon the <hi>18th.</hi> of <hi>Octob.</hi> 1698.</p>
+            <p>At the Appointment of the Miniſters there Met.</p>
+            <p>And, at the Requeſt of Some, Publiſhed for the uſe of Others.</p>
+            <p>By <hi>J. NAYLOR</hi> Miniſter of the Goſpel.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for Tho. Parkburſt at the Bible and <hi>Three Crowns</hi> in <hi>Cheapſide,</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:56977:3"/>
+            <pb n="3" facs="tcp:56977:3"/>
+            <head>A SERMON Preached at <hi>Warrington.</hi>
+            </head>
+            <epigraph>
+               <bibl>MAT. VII. V.</bibl>
+               <q>Thou Hypocrite firſt caſt out the Beam out of thine own Eye; and then ſhalt thou ſee clearly, to caſt out the Mote out of thy Brothers Eye.</q>
+            </epigraph>
+            <p>THE Divine Diſpenſations of late, both in a way of Mercy and Judg<g ref="char:EOLhyphen"/>ment, have ſo loud a Voice in this Kingdom, as cannot but awaken a juſt ſenſe of a Neceſſity of Reformation, in all that are not lul'd aſleep, upon the lap of Pleaſure, by the Syren Songs of theſe ſenſual Sublunary things. God is trying this Nation in both theſe Methods, and
+<pb n="4" facs="tcp:56977:4"/>
+ſurely none ſo Ignorant, as not to know that both theſe ways do ſtrongly oblige, to an holy and Reformed courſe! If God do ſet us up as a mark, at which he intends to ſhoot the Arrows of his Diſpleaſure; it highly concerns us, to meet him in the ways of his Judgments, by a ſpeedy and ſincere Repentance. And if he unſtring his Bow, and put up into his Quiver, the impoyſoned Arrows, that were prepared for our de<g ref="char:EOLhyphen"/>ſtruction; He expects ſo ſignal a Mercy ſhould ſoften and melt our hearts, and bring them into an Holy and Heavenly frame and Temper.</p>
+            <p>Do I need to tell you, how lately God was graciouſly pleaſed, to Remove the Judg<g ref="char:EOLhyphen"/>ment of a long and expenſive War; and how deſireable a Peace was before it was concluded? And ſurely now the Enjoy<g ref="char:EOLhyphen"/>ment of Liberty and Property; and the ſetling Peace within our Borders, under the favourable Influences of good Rulers; is not the leaſt of Temporal Bleſſings! God hath huſht away Wars from amongſt us, and wonderfully ſcattered our fears: And ſhall not ſo merciful a diſpenſation excite us to a vigorous proſecution of an Holy War, proclaimed between us and our Sins? A War in which we were very early engaged; for in our Baptiſm, we were liſted under Chriſt, as the Generaliſ<g ref="char:EOLhyphen"/>ſimo of all who draw the Sword to Sa<g ref="char:EOLhyphen"/>crifice their Luſts; and to fight againſt the
+<pb n="5" facs="tcp:56977:4"/>
+World, the Fleſh and the Devil. And ſurely as the conſummation of a long de<g ref="char:EOLhyphen"/>ſired Peace, with our Forreign Enemies, affords a favourable Juncture for the ad<g ref="char:EOLhyphen"/>vancement of this great Work; ſo it is a powerful Obligation upon us to ſet to it in good earneſt.</p>
+            <p>No ſooner were the Children of <hi>Iſrael</hi> come out of <hi>Egyptian</hi> Bondage, but they were called to renew their Covenant with God; and what cauſe have we to take up the Words of <note n="*" place="margin">
+                  <hi>Ezra</hi> 9. 13, 14.</note> 
+               <hi>Ezra; Seeing that thou our God, haſt given us ſuch a deliverance as this: Should we again break thy Commandements, and joyn in affinity with a People of theſe A<g ref="char:EOLhyphen"/>bominations; wouldſt not thou be angry with us; till thou hadſt conſumed us; ſo that there ſhould be no remnant, nor eſcaping?</hi>
+            </p>
+            <p>But tho' the Sword be put up, and the War ended; yet for our Unfruitfulneſs under, and Unthankfulneſs for, ſo great a Mercy: God hath been threatning us in theſe <hi>Northern</hi> parts with another Judg<g ref="char:EOLhyphen"/>ment, nothing leſs or Inferior to that which he hath lately removed, <hi>(viz.)</hi> a Judg<g ref="char:EOLhyphen"/>ment of Famine.</p>
+            <p>The Holy God for thoſe vile Abomina<g ref="char:EOLhyphen"/>tions, and groſs Prophaneneſs, committed amongſt us; hath been threatning to break the Staff of Bread, and to ſend cleanneſs into our Teeth. How hath God been puniſhing us with Immoderate Wet and Rain, and with a late and thin Harveſt?
+<pb n="6" facs="tcp:56977:5"/>
+So that our former Deliverances will not ſecure us from future Ruin; if we harden our ſelves in a ſinful way, and wicked courſe. If we ſlight God's Mercies, we cannot think to eſcape the ſmart of Judg<g ref="char:EOLhyphen"/>ments: For they that will not learn Righ<g ref="char:EOLhyphen"/>teouſneſs, by the mild and gentle methods of Divine Patience, and Kindneſs, muſt ex<g ref="char:EOLhyphen"/>pect to be taught, as the Men of <note n="*" place="margin">
+                  <hi>Judg.</hi> 8. 16.</note> 
+               <hi>Succoth, With the Thorns and Briars of the Wil<g ref="char:EOLhyphen"/>derneſs,</hi> We Read that the Men of <note n="†" place="margin">
+                  <hi>Gen.</hi> 14. 12, 13, 14.</note> 
+               <hi>Sodom</hi> were Reſcued from Captivity by <hi>Abraham</hi>'s Sword, not long before they were conſumed by Fire and Brimſtone from Heaven. And ungrateful <hi>Iſrael</hi> periſhed in the Wilderneſs, after their miraculous de<g ref="char:EOLhyphen"/>liverance from <hi>Egyptian</hi> Bondage and ſervi<g ref="char:EOLhyphen"/>tude. Now God forbid, that all our great Deliverances, and Signal Mercies, ſhould be attended with ſo ſad a conſequent, as to harden us in Sin and ripen us for De<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>And as this is a Juncture, wherein God is thus calling upon us, to put away our Sins, and to endeavour the Reformation both of our ſelves, and others, <note n="*" place="margin">
+                  <hi>Pſal.</hi> 82. 6.</note> 
+               <hi>That Ini<g ref="char:EOLhyphen"/>quity may not be our Ruin:</hi> So our Ter<g ref="char:EOLhyphen"/>reſtrial Gods (as Magiſtrates are ſome<g ref="char:EOLhyphen"/>times called) have vigourouſly ſet them<g ref="char:EOLhyphen"/>ſelves to the Advancement of this ſo ne<g ref="char:EOLhyphen"/>ceſſary a Work. How many Pious Pro<g ref="char:EOLhyphen"/>clamations have been iſſued out within the ſpace of Eight or Nine years? Requiring
+<pb n="7" facs="tcp:56977:5"/>
+all Magiſtrates, Civil and Eccleſiaſtical, in their Reſpective Stations, to execute the Laws of this Realm againſt Prophaneneſs and Immorality, as they would Anſwer it to Allmighty God: and upon pain of their Majeſty's (and now of his Majeſty's) higheſt Diſpleaſure: complaining that by a long continued neglect, and connivance of the Magiſtrates, and Officers concern'd; theſe diſolute Enormities had univerſally ſpread themſelves, to the great diſhonour of God, and the ſcandal of our holy Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>Theſe Proclamations have been ſeconded by ſeveral Learned and Pious Biſhips, in their Letters to their Clergy, of their ſe<g ref="char:EOLhyphen"/>veral and Reſpective Dioceſſes; enjoyning them to Preach againſt the Sins of the Day, and Place wherein they live, and take care they go before their Flocks in an holy and exemplary way of Living.</p>
+            <p>And for the more effectual ſuppreſſing of all Immorality and Prophaneneſs; and curbing the Exorbitances of this Age; I need not ſurely number up the particular Acts, and Laws, that have been made by the late Parliament, againſt Drunkenneſs, Whoredome, Prophane Swearing and Curſ<g ref="char:EOLhyphen"/>ing, and the notorious Prophanation of the Holy Sabbath.</p>
+            <p>And tho' it hath been an old ſaying, that few Nations have better Laws, and worſe executed then we have; yet for the re<g ref="char:EOLhyphen"/>trieving
+<pb n="8" facs="tcp:56977:6"/>
+the honour of the <hi>Engliſh</hi> Nation; for averting God's Anger, preventing of Impending Judgments, and for the Revive<g ref="char:EOLhyphen"/>ing of Religion, and the power of Godli<g ref="char:EOLhyphen"/>neſs, which hath been ſo long dead and ſo greatly traduc'd among us; there are not a few at this day, of all Ranks and Qualities of Men, throughout the Nation; that are willing to help forward this Bleſſed Work of a Reformation. And through the bleſſing of God, upon the endeavours of ſome holy <hi>Lots</hi> of this Age; who have been vexed with the filthy Converſation of the Wicked; there hath been a con<g ref="char:EOLhyphen"/>ſiderable check, and ſtop put to the Im<g ref="char:EOLhyphen"/>petuous torrent of Impiety and Prophane<g ref="char:EOLhyphen"/>neſs; where before it uſed to overflow the Banks.</p>
+            <p>Surely then it highly concerns us all, in our Reſpective places and Capacities, to purge out the old Leaven of Sin and Wickedneſs; and to ſeek the Reformation both of our ſelves and others! And to bleſs God there are any amongſt us, who are free and forward, to draw forth the Sword of Juſtice, and ſmite therewith, all Impudent and Impenitent Sinners, who have hitherto made a mock at Sin, and have put on a whores forehead in com<g ref="char:EOLhyphen"/>mitting of it. I ſay, there are not a few Juſtices of the Peace amongſt us; who (to their Honour be it ſpoken) have openly declar'd their willingneſs, to Execute the
+<pb n="9" facs="tcp:56977:6"/>
+Laws made againſt Prophaneneſs, and De<g ref="char:EOLhyphen"/>bauchery: as was lately heard in their charge, at the Privy and Quarter Seſſions of the Peace, where they publickly Pro<g ref="char:EOLhyphen"/>feſſed, they would (upon due Informati<g ref="char:EOLhyphen"/>on) proceed to puniſh all Offenders, ac<g ref="char:EOLhyphen"/>cording to the nature of the Offence com<g ref="char:EOLhyphen"/>mitted by them; whether it be Drunken<g ref="char:EOLhyphen"/>neſs, Whoredom, Prophane Swearing and Curſing, or the Prophanation of the holy Sabbath.</p>
+            <p>And are there any here that have the face to ſay, Miniſters are obliged to Preach againſt Sin and Vice, and Magiſtrates o<g ref="char:EOLhyphen"/>bliged to puniſh it: and yet they them<g ref="char:EOLhyphen"/>ſelves may ſit ſtill, and do nothing in it but be idle ſpectators in this hard and difficult undertaking? I will but ask ſuch Perſons this ſingle queſtion. Are you under the Sacred Vows of the Chriſtian Religion, and have you Sworn to be faithful to the Kingdom and Intereſt of Jeſus Chriſt, Man<g ref="char:EOLhyphen"/>fully to fight under his Banner, who is the Captain and Leader of our Salvation; and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et think your ſelves not concern'd in a Work of Reformation? O Egregious folly and madneſs!</p>
+            <p>Tho' this Introduction be already too <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng, yet I muſt ſolicite your Patience a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ttle longer, before I come to conſider the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ext: For I cannot omit Informing ſome <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Reminding others, that at the opening <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> theſe Itinerant Lectures, or Monthly
+<pb n="10" facs="tcp:56977:7"/>
+Exereiſes; it was by a Reverend Brother very well, and warmly proved a Duty, upon all Perſons, not only Magiſtrates and Miniſters, but alſo others, in their places; to help forward this glorious enterpriſe of a Bleſſed Reformation. I muſt make ſo far bold with that Sermon, as from it to tell you, that the Execution of Juſtice ſtands upon theſe two Bottoms. <hi>Firſt,</hi> It depends upon proving the matter of Fact, or the giving due Information before a Lawful Magiſtrate. <hi>Secondly,</hi> In Executing the Penalty of the Law upon the Offender, ſo informed againſt. So that in order to the ſuppreſſing of Sin and Wickedneſs, it is primarily neceſſary, the Perſon before whom the Sin be committed take care to inform the Magiſtrate of it; and then ſe<g ref="char:EOLhyphen"/>condarily, the Magiſtrate proceed to puniſh it. And if either the Informer, or the Magiſtrate, be remiſs in their Reſpective Capacities, Juſtice is obſtructed, the Efficacy of the Law is Null'd, Sin goes unpuniſhed, and the holy God more and more Provok<g ref="char:EOLhyphen"/>ed. Men cry out, againſt the Non-Execu<g ref="char:EOLhyphen"/>tion of Juſtice, and complain of the illneſs of their Magiſtrates; whereas (indeed and in truth) the great fault is amongſt pri<g ref="char:EOLhyphen"/>vate perſons: Juſtice lies obſtructed here, when they connive at Sinners, and neglect to give Information of the Sins committed before them, and in their preſence.</p>
+            <p>
+               <pb n="11" facs="tcp:56977:7"/>
+Now after this long Preface, wherein I have ſpent but too much time; I ſhall bring in the Text under this Concluſion, which was the Subject chiefly inſiſted upon; the firſt of theſe Lectures, <hi>(viz.)</hi> That it is the duty of all Perſons in their Reſpective Places and Capacities, to help forward a Work of Reformation. This being a duty then ſo fully proved upon all Perſons; I have ſince thought with my ſelf, what is firſt to be done in this needful Work, and which is the beſt way, to forward this ſo Neceſſary and Important a Duty; or what courſe we ſhould take to promote the Work of Reformation: And thereupon made choice of this Text.</p>
+            <p>
+               <hi>Thou Hypocrite firſt caſt the Beam out of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hine own Eye, and then ſhalt thou ſee clear<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y to caſt out the Mote out of they Brothers Eye.</hi>
+            </p>
+            <p>This Chapter is part of that excellent Sermon Chriſt Preached on the Mount; but I muſt not take time to give you the Analiſis of it; nor would I be tedious in clearing the Coherence of theſe words, with what goes before them. And there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore that I may briefly prepare my way to the Text, there are two things in the be<g ref="char:EOLhyphen"/>ginning of this Chapter to be noted by <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s.</p>
+            <p n="1">1. We have our deareſt Lord, flatly Prohibiting, and ſharply Reproving, all raſh and Precipitous judging of others, <hi>verſe</hi> the <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſt. Judge not,</hi> &amp;c.</p>
+            <p n="2">
+               <pb n="12" facs="tcp:56977:8"/>
+2. We have him enforceing this his Pro<g ref="char:EOLhyphen"/>hibition and Reproof, by ſeveral Reaſons and Arguments.</p>
+            <p n="1">1. By our Raſh cenſuring and Condem<g ref="char:EOLhyphen"/>ning others; we render our ſelves obnoxi<g ref="char:EOLhyphen"/>ous to the Juſt cenſure and Judgment of the great God, <hi>verſe</hi> the <hi>1 ſt. Judge not that ye be not Judged.</hi>
+            </p>
+            <p n="2">2. We ſhould not thus raſhly Judge and cenſure others; becauſe we are ſure to be paid in our own coyn, <hi>verſe</hi> the <hi>2d. For with what Judgment ye Judge, ye ſhall be Judged; and with what Meaſure ye meet, it ſhall be Meaſured to you again.</hi>
+            </p>
+            <p n="3">3. We ſhould avoid this Sin of an un<g ref="char:EOLhyphen"/>wary and uncharitable Judging of others <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> becauſe we may poſſibly, be guilty of ſome greater fault and crime our ſelves, <hi>verſe</hi> the <hi>3d. And why beholdeſt thou the Mote that is in thy Brothers Eye, but conſidereſt not the Beam that is in thine own Eye?</hi> The Word in the <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> Orriginal ſignifies ſomething more then a bare beholding and ſeeing of ano<g ref="char:EOLhyphen"/>thers fault: For it imports a nice and curious prying into the faults and failings of other Perſons; it ſignifies a curious and critical Eye, in inſpecting other Mens Actions, with an intent and purpoſe to Reprove them.</p>
+            <p n="4">4. This is ſuch a thing as renders us very unfit and improper Perſons to Re<g ref="char:EOLhyphen"/>form others, <hi>verſe</hi> the <hi>4th. Or how wilt thou ſay to thy Brother, let me pull out the Mote
+<pb n="13" facs="tcp:56977:8"/>
+out of thine Eye; and behold a Beam is in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hine own Eye?</hi>
+            </p>
+            <p n="5">5. This raſh and uncharitable Judging of others, with an aptneſs to ſpie faults in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem, doth carry the Face of great Inſince<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity and Hipocriſie in it. <hi>Verſe</hi> the <hi>5th. Thou Hipocrite firſt caſt the Beam out of thine <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn eye, and then ſhalt thou ſee clearly, to caſt <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut the more, out of thy Brothers eye.</hi>
+            </p>
+            <p>No ſurer note and Mark of Hipocriſie; <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen a forwardneſs to Judge and condemn o<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers, for that which a man is Guilty of him<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elf.</p>
+            <p>There are two things in the Text to be <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poken to, which may be comprehended <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> theſe two Propoſitions</p>
+            <p n="1">1. <hi>Propo.</hi> That is a Chriſtian Frater<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l part and duty to caſt the Mote out of <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r Brothers eye.</p>
+            <p n="2">2. <hi>Propo.</hi> That we may more Regularly <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omfortably and Effectually performe this <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hriſtian Brotherly Office; we muſt firſt of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> caſt the Beams out of our own eyes.</p>
+            <p>I ſhall ſay ſomething to the Firſt of theſe <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ropoſitious; tho I do not intend to inſiſt <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch upon it becauſe I ſhall rather take it for <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anted, then make my Buſineſs to prove <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y work is to direct, rather then to excite <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Perſwade, to Reformation. Firſt caſt the <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>am out of thine own eye; and then ſhalt <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou ſee clearly to caſt the Mote out of thy <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rothers eye.</p>
+            <p>
+               <pb n="14" facs="tcp:56977:9"/>
+And do I need to tell you who is mea<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> here by Brother in the Text? For tho' th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> word Brother, hath various Acceptation<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in Holy Scripture, yet we need not mu<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Scruple the uſe of the word in this plac<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> The word is ſometimes put and uſed proper<g ref="char:EOLunhyphen"/>ly, for a natural Brother; which is eith<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> an half Brother, both by one Father, b<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not by a Mother as <hi>Iſaac</hi> and <hi>Iſhmael;</hi> or <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> full Brother, both by Father and Mother, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Joſeph</hi> and <hi>Benjamin, Cain</hi> and <hi>Abell, Eſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and <hi>Jacob.</hi> And ſometimes it is put and u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed Improperly; for a Kinſman, companion<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or Neighbour, a Friend, and an acquaintan<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> The word is put for all theſe in holy Scrip<g ref="char:EOLunhyphen"/>ture, and if you pleaſe, you may take it in a<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> theſe Reſpects; becauſe unto all of theſe, w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are in duty Bound and Obliged to do all th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good we can; tho' by many Expoſitours, th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> word Brother in the Text, is interpreted <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our Neighbour. Yet if our Brother in an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of theſe Reſpects I have Named; That is if either our Natural Brother, or any of ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Relations, Neighbours, Friends or Acquain<g ref="char:EOLunhyphen"/>tance have a Mote in their eye, it is a Chriſ<g ref="char:EOLunhyphen"/>tian Brotherly part to caſt it out.</p>
+            <p>And may it be thought Neceſſary to ſhe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you what is meant by a Mote or Beam in t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> eye, and what is meant by caſting of the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out. By motes, we may underſtand the ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ward and externall Acts of Sin, which w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould Labour to caſt out of our Brother<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> life. And by Beams in our own; we ma<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="15" facs="tcp:56977:9"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nderſtand, either Sins that are in themſelves <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>reat, or elſe the ſame Sins, which our Bro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>her commits, that are Beams in us, by be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>olding them in our Brother, but not in our <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>elves. This is a Beam (a Monſtrous Sin) <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be caſt out of all of us, when we can Spie <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aults in others but none in our Selves.</p>
+            <p>So that the Summ and Sence of the pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ofition is this. It is a Chriſtian Brotherly <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>art and duty, to reclaime and reforme our <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rother, to prevent his Sining, and to <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cover him out of a wicked and Impi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s courſe of life; if fallen into it. If <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r Brother be overtaken with the Sin of <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>runkenneſs, Whoredome, prophane Swear<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g and curſing, or the Prophanation of the <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly Sabbath, or any other ſuch like Sins and <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ces; it is a Brotherly part and Duty to <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>k out thoſe motes out of our Brothers eye, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ith a Soft and mild Tongue, by a Gentle <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Chriſtian reproofe; tenderly admoniſh<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g our Brother, that he would Sin no more <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt a worſe thing come unto him. And oh! <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hat this were more in Practice amongſt <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, that Chriſtians would endeavour more <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d more, to caſt ſuch Motes, out of each o<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers eyes, and thus lick them with an holy <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Heavenly Tongue, out of a juſt and due <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſpect to the Glory of God; and the eter<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l Happineſs of each other.</p>
+            <p>Surely it cannot be lamented enough, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at this Duty of Brotherly admonition and <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>riſtian Reproofe; is ſo little practiced by, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d amongſt Chriſtians. Were there more true
+<pb n="16" facs="tcp:56977:10"/>
+real Chriſtion Love amongſt us; we ſhoul<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Strive more by this meanes, to caſt the Mote<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> out of each others eyes. I'll not ſay, ho<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> often we are thus to endeavour the Purging and cleanſing our Brothers eyes, from th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Motes of Sin that are in, and the Scurfe o<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Prophaneneſs that Grows upon them. But i<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> we Find there is no hope of licking our Bre<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> theren whole, if all our Gentle and mild at<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> tempts to reforme them, Prove ineffectiual <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> if it be an old Sore and diſtemper unde<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which our Brother Labours: we are the<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to make uſe of another remedy; and try i<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this running Plague and Iſſue can be Stopt b<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Execution of <hi>Juſtice.</hi> We are then ou<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of a Brotherly Chriſtian reſpect, to repre<g ref="char:EOLhyphen"/>ſent ſuch Perſons unto the <hi>Magiſtrates</hi> 
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Offenders; who are a terrour unto evil do<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ers, and who are ſaid in Scripture, <note n="†" place="margin">
+                  <hi>Rom</hi> 13. 3. 4<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>not <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> bear the Sword in vain, but to be the Miniſter<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of God, and Revengers to Execute wrath up<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> them that do evil.</hi>
+            </p>
+            <p>We read that ſome <hi>Devils</hi> were not ca<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> out, but with great difficulty. So we ma<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> expect that the cure of our Sining Brethre<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or a work of Reformation, upon thoſe wh<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> have been long accuſtomed unto Sin; wi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not be effected and wrought with a litt<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> adoe. There is now a remedy in the Law<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for all Impudent and Impenitent Tran<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> greſſours, and were it but duely apply'<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> there are great hopes of a good Opperatio<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> We have known and Heard of ſome, wh<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="17" facs="tcp:56977:10"/>
+have Spent their ſubſtance upon Phiſicians, for the cureing of a diſeaſed and infirm Body: and yet after all, they have carryed their Diſtempers to their Graves. But were we ſo kind and Charitable to our Brethern, that Labour under Spiritual Maladies, and have the ſad Symtoms of eter<g ref="char:EOLhyphen"/>nal Death upon them; as to put them to the expences and Charge, of paying ſo much (as the Law directs) for every prophane Oath and curſe, ſo much for being Drunk, and ſo much for the prophanation of the holy Sabbath; it might have an Happy Tendency, not onely to avert the heavy Judgements of God, that at this day threa<g ref="char:EOLhyphen"/>ten our Land, but alſo towards the ever<g ref="char:EOLhyphen"/>laſting Salvation of their Precious and Im<g ref="char:EOLhyphen"/>mortal Souls,</p>
+            <p>I know very well, that ſuch Indications of our Chriſtian Love, are no ways Pleaſ<g ref="char:EOLhyphen"/>ing unto Fleſh and Blood; and they will be ſomething Strange at the Firſt; becauſe wickedneſs and Impiety hath gone ſo long, with an open Braſen Face. The power and Practice of Religion and Godlineſs hath lien long out of doors; and we have been greatly pleaſed with the Speculative part on<g ref="char:EOLhyphen"/>ly. The great noiſe for theſe many Years, in this part of the Chriſtian world, hath been about the Lighter matters of the Law, <hi>Mint, Anniſs, and Cummin;</hi> Meats and Drinks, wherein the Kingdom of God doth not
+<pb n="18" facs="tcp:56977:11"/>
+conſiſt. The great talk and Zeal hath been about things leſs Neceſſary, and more ab<g ref="char:EOLhyphen"/>ſcure and doubtfull; men doting about Queſtions, and Strifes of words, whereof cometh envy, Strife, Railings and evil Sur<g ref="char:EOLhyphen"/>miſeings. This is that, with which we have been but too much taken up, for a long time.</p>
+            <p>Now I ſay, that tho' the Preſſing upon People a life and practice, Suitable to their Chriſtian profeſſion, will be ſome thing un<g ref="char:EOLhyphen"/>pleaſing at the firſt: Yet we muſt not gra<g ref="char:EOLhyphen"/>tifie, and Humour Inſincere people, in their Soft and delicate ſelf choſen Religion: ſhould we thus doe, we ſhould not be faith<g ref="char:EOLhyphen"/>full to the Souls of our Brethren; whoſe grand Intereſt and Neceſſary concernment, is to live in the Power and Practice of God<g ref="char:EOLhyphen"/>lineſs and Religion. This is abſolutely ne<g ref="char:EOLhyphen"/>ceſſary to be Taught and Preſt with all Au<g ref="char:EOLhyphen"/>thority; it matters not, that the Carnal and Senſual Perſon doth not Reliſh it: For we are herein to Imitate carefull and Prudent Phyſicians, who when they come to their Patients, do not ask them what they Love beſt, and then Preſcribe what is moſt pleaſ<g ref="char:EOLhyphen"/>ing to their Pallats, tho' moſt hurtfull; but Informeing themſelves well of the Caſe of the diſeaſed, they Preſcribe and prepare what they judge to be moſt Proper for them, tho' it be no whit Gratefull, or acceptable to them.</p>
+            <p>
+               <pb n="19" facs="tcp:56977:11"/>
+Now there are three Special Benefits, that ariſe from this Chriſtian Charitable repre<g ref="char:EOLhyphen"/>henſion and admonition, which may be as ſo many Arguments, to enforce upon us the Practices of this Duty.</p>
+            <p n="1">1 By this meanes, our Offending and Sinning Brethern may be reformed. And indeed this is the Primary end of Chriſtian reproofe; even the reformation and amend<g ref="char:EOLhyphen"/>ment of our Brother, and how Bleſſed a work this is; * <hi>Let him know that he</hi> 
+               <note place="margin">
+                  <hi>Jam.</hi> 5, 20.</note> 
+               <hi>that converteth the Sinner from the errour of his ways, ſhall ſave a Soul from Death, and ſhall hide a Multitude of Sins.</hi>
+            </p>
+            <p n="2">2 By this Chriſtian reprehenſion and admo<g ref="char:EOLhyphen"/>nition, others may be brought to take warn<g ref="char:EOLhyphen"/>ing, <hi>Smite a Scorner and the ſimple will beware;</hi> 
+               <note place="margin">
+                  <hi>Prove.</hi> 19. 25.</note> 
+               <hi>and reprove one that hath underſtanding, and he will underſtand Knowledge. Alterius Per<g ref="char:EOLhyphen"/>ditio ſit tua cautio.</hi> When we behold other men Ship-wrackt, this may make us look well to our own Tackling. O how uſefull Profitable may the reproving of one Sinner be to many others? This may have a Hap<g ref="char:EOLhyphen"/>py tendency to the promoting a work of Reformation in others.</p>
+            <p n="3">3 He who lives in the Practice of this Chriſtian Duty of Brotherly Reprehenſion and Admonition; ſhall be Sure to deliver
+<pb n="20" facs="tcp:56977:12"/>
+his own Soul, and procure a Bleſſing upon himſelf. <hi>But to them that rebuke the wicked</hi> 
+               <note place="margin">
+                  <hi>Prov,</hi> 24, 24, 25,</note> 
+               <hi>ſhall be delight; and a good Bleſſing ſhall com<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> upon them.</hi> Read alſo <hi>Levit.</hi> 19. 17. <hi>Thou ſhalt not hate thy Brother in thine Heart; but ſhalt in any wiſe reprove him, and not ſuffer Sin to be upon him.</hi> Not to reprove our Bro<g ref="char:EOLhyphen"/>ther when he Sins? and not to Warn him when Guilty of Sinfull Practices, is an Ar<g ref="char:EOLhyphen"/>gument of our hating our Brother. Yea if we Suffer our Brother to Sin, who upon Chriſtian Reprehenſion, or Information to ſome Lawfull Magiſtrate, might be amend<g ref="char:EOLhyphen"/>ed; we ſhall bear his Sin for him. <hi>Qui Emendare Poteſt, et negligit, Participem Se facit;</hi> ſaith one. He that can reforme ano<g ref="char:EOLhyphen"/>ther, and doth not, maketh himſelf partake<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his Sin. And thus I have done with th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Firſt Propoſition in the Text; it is the Se<g ref="char:EOLhyphen"/>cond I intend to Speak more fully to.</p>
+            <p n="2">2 <hi>Propoſition.</hi> That for our more Regular, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> omfortable and Succeſsfull performing this Chriſtian Brotherly Office, of caſting the Mo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e out of our Brothers eye, we ſhould Firſt take care, to caſt the Beam out of thine own eye, and then ſhalt thou See clearly, to caſt the mote out of thy Brothers eye.) One that would reform another, whether he be Ma<g ref="char:EOLhyphen"/>giſtrate, or a Miniſter, or a private Perſon ſhould Firſt take care to Reform himſelf.
+<pb n="21" facs="tcp:56977:12"/>
+This is the thing that every one who pro<g ref="char:EOLhyphen"/>notes the work of Reformation in others, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hould be eſpecially carefull of. Reformers <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hould be examples of all purity, Chaſtity, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eekneſs, Temperance and Heavenly mind<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dneſs; and then may they with comfort, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et upon the Practice of this Chriſtian Bro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herly Duty of Reforming others.</p>
+            <p>Not, but that we may all know very well, what a thankleſs Office, the Office of a Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ormer is; or one that Promotes the Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ormation of Sinners. There are but too <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>any Scorners, who hate to be reformed, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd make a Mock of Sin. And tho' all be <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot thus wicked; yet it is rare to meet with <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Perſon, who thinks not hardly of thoſe who do admoniſh him. This was the frame <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Temper of Spirit the <hi>Sodomites</hi> were of, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen but Gently reproved by holy <hi>Lot; <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>my Brethern do not ſo wickedly.</hi> Yet for this <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey thought hardly of him. <note n="†" place="margin">
+                  <hi>Gen,</hi> 19. 7,</note> 
+               <hi>What, will <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Fellow be a judge, that came but the other <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay to Sojourne?</hi> Ver: 9. of the Same <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hapter. So we Read, that the Prophet doth <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut find Fault with <hi>Amaziah,</hi> and preſently <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Kings eyes are Blinded, <note n="*" place="margin">2 <hi>Chr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n.</hi> 25, 16.</note> 
+               <hi>And his heart <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ardened, and he Anſwers the Prophet, who <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ade you of the Kings Councill?</hi> He looked <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Prophet a Medling Perſon, as a bu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e body in other mens Matters; as one <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat had a mind to Prie into State affaires.
+<pb n="22" facs="tcp:56977:13"/>
+So when the Blind man did but find fault <note place="margin">
+                  <hi>Joh.</hi> 9. 34.</note> with the <hi>Phariſees,</hi> for their perſecuteing of <hi>Chriſt,</hi> how do they take it at his Hands. Art thou altogether conceived and Born in Sin, and wilt thou teach us? They quickly looked upon his Blindneſs and Birth, and concluded he was a greater Sinner then other men, and therefore could not think, he ſhould reform them. If we would take up<g ref="char:EOLhyphen"/>on us the Office of reforming others, we ſhould take care that we be of unblamea<g ref="char:EOLhyphen"/>ble Lives our ſelves. This is our firſt work; we muſt begin at home, and Sweep clean be<g ref="char:EOLhyphen"/>fore our own doors, before we find fault with our Neigbour. We ſhould firſt get the Beams out of our own eyes, before we attempt to caſt the Motes out of our Bro<g ref="char:EOLhyphen"/>thers eyes. Let the <hi>Phiſician</hi> firſt cure himſelf; and then he will have more Pati<g ref="char:EOLhyphen"/>ents, and may, with greater Encouragement begin to Practice.</p>
+            <p>But here I come to ſpeak to three things, <hi>Iſt.</hi> I ſhall ſhew you, who are to reform<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> themſelves. <hi>2d.</hi> I ſhall ſhew you, of what the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhou'd reforme themſelves. <hi>3d.</hi> why they ſhould firſt reforme themſelves before they ſet upon this work of reforming others.</p>
+            <p n="1">I I ſhall ſhew you who are to Reform them ſelves. And in the general; all are to reform<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and livean holy, Examplary life and
+<pb n="23" facs="tcp:56977:13"/>
+converſation. All perſons are to Set about this great and needfull work, both high and low, Rich and poor, Male and Female, bond and Free; Perſons of all Ranks, degrees and Qualities whatſoever; from him that Sitteth upon the Throne; to the Hewers of Wood, and drawers of Water. There is not one that can plead an Immunity, and exemption, from this ſo Neceſſary and Im<g ref="char:EOLhyphen"/>portant a Duty; None that can truely ſay, I'm left to my own Choyce, whether I will Reform or no but all are to Set upon this work of ſelf Reformation. Particularly.</p>
+            <p n="1">I This is the work of all Magiſtrates; of all who Handle the Sword of <hi>Juſtice.</hi> They eſpecially are to reform. This is the Duty of great men, and men in place and Power. It's not the Duty and part of the Poorer and Meaner Sort of People onely; but a work for the more Rich and Honour<g ref="char:EOLhyphen"/>able, and ſuch whoſe place and Office is to Puniſh others that Offend.</p>
+            <p>Not the poor onely, that are to reform of their Intemperance, uncleanneſs, Pro<g ref="char:EOLhyphen"/>phane Curſing and Swearing, and the pro<g ref="char:EOLhyphen"/>phanation of the holy Sabbath, but the Bro<g ref="char:EOLhyphen"/>ther of high degree is to Engage himſelf in it. Theſe are the Perſons that ſhould make ſure of a ſelf Reformation: For the greater the perſons, the greater are their Sins. And the groſs Immoralityes of
+<pb n="24" facs="tcp:56977:14"/>
+many Magiſtrates are no Small cauſe of that great Inundation of Impiety and Prophane<g ref="char:EOLhyphen"/>neſs, that hath overſpread the Face of this <hi>Kingdom;</hi> and there's cold hopes of Setling this Bleſſed work of Reformation in any good Succeſsfull method; till ſuch time as Magiſtrates, who have the Sword of <hi>Juſtice,</hi> are either reformed, or removed. With what face and courage can a prophane Ma<g ref="char:EOLhyphen"/>giſtrate execute the Laws, or the Penalties of the Laws, againſt prophaneneſs. <note n="*" place="margin">
+                  <hi>Rom,</hi> 2, 1,</note> 
+               <hi>There<g ref="char:EOLhyphen"/>fore thou art inexcuſable, O man, whoſoever thou art that Judgeſt: for wherein thou Judgeſt a<g ref="char:EOLhyphen"/>nother, thou condemneſt thy ſelf; for thou that Judgeſt, doſt the ſame things.</hi> Read alſo, <hi>verſe</hi> the 21, 22, 23. of the ſame Chap. Thou therefore that Teacheſt another; Teacheſt thou not thy ſelf, Thou who ſay<g ref="char:EOLhyphen"/>eſt a man ſhould not commit adultery, doſt thou commit Adultery. Magiſtrates whoſe Office is to Puniſh others for their Violations of the Law; ſhould look to obſerve the Law themſelves. They ſhould be of holy unblameable Lives and converſations.</p>
+            <p n="2">2 This ſelf Reformation is the work of all Miniſters. They of all Perſons, ſhould look after this work, and approve their works to the Lord. Thus the Apoſtle Ex<g ref="char:EOLhyphen"/>horts <note place="margin">1 <hi>Tim,</hi> 4, 13,</note> 
+               <hi>Timothy, Till I come, give attendance to Reading, Exhortation and Doctrine.</hi> and <hi>verſe</hi> the 16. <hi>Take heed unto thy ſelf, and unto thy
+<pb n="25" facs="tcp:56977:14"/>
+Doctrine; continue in them; For in ſo doing, thou ſhalt both ſave thy ſelf and them that hear thee. Aarons</hi> bells Hung at his Feet, What an uncomely thing it is, for a Prophane Mi<g ref="char:EOLhyphen"/>niſter to Preach againſt Prophaneneſs. A Miniſter given to Swearing, Preach againſt it; or a Miniſter given to Intemperance, Preach againſt it? <hi>Turpe eſt Doctori, cum culpa redarguit ipſum.</hi> How harſh and unpleaſing is it, to hear Vice correcting Sin? <hi>Clodius accuſat Moechos.</hi> The Sins of a Miniſter are very Dangerous, how fine ſoe<g ref="char:EOLhyphen"/>ver his Preaching be, for his Practice will goe further then his Preaching; and they who Forget his Sermon, will remember his Example. If a Miniſter be but a little lea<g ref="char:EOLhyphen"/>vened, it is much if moſt of his Auditory be not Sowred thereby. If the Nurſe be Sick, the Child that Sucks the Breaſt, is in Dan<g ref="char:EOLhyphen"/>ger to Suck the diſeaſe from her. O how much doth it concern Miniſters to lead holy and Heavenly Lives! <note n="†" place="margin">
+                  <hi>Rom.</hi> 2. 21.</note> 
+               <hi>Thou who Preacheſt a man ſhould not Steal; doſt thou Steal?</hi> doſt thou commit Adultery? Art thou covetous and contentious? Art thou unclean and In<g ref="char:EOLhyphen"/>temperate? And Preacheſt againſt all theſe things? Miniſters ſhould Eſpecially be of inoffenſive Lives, becauſe it is their work and Office, to Preach this up to others. They ſhould as much as poſſible be free from all Sin; becauſe they Preach againſt all Sin, and are to reprove with an holy boldneſs every Sin, be it in who it will, Poor or Rich, Small or
+<pb n="26" facs="tcp:56977:15"/>
+great. It is ſaid of <hi>Tacitues</hi> that he took the ſame Liberty to write the Emperous lives that they took in leading them. Thus ſhould the Miniſters doe in reproving of Sinners. But how can a Miniſter do thus, unleſs he be unblameable himſelf? The Sharpeſt Sermons of a wicked Prophane Miniſter, againſt Groſs Sins and Immorali<g ref="char:EOLhyphen"/>ties, are but like a Smooth, File; or a Saw whoſe Teeth are broken; or a Knife that hath loſt it's edge.</p>
+            <p n="3">3 This ſelf Reformation is the work of all private Perſons; of all who would draw the Motes out of their Brothers eyes. They ſhould begin her<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Firſt, and reform them<g ref="char:EOLhyphen"/>ſelves. The converſations of all men, even of private Perſons, as well as Magiſtrates, and Miniſters, ſhould correſpond and com<g ref="char:EOLhyphen"/>port with that holy profeſſion which they make. What have we to doe with any baſe and ſordid Practice; who lie under the Sa<g ref="char:EOLhyphen"/>cred vows of the Chriſtian Religion? I know indeed it is a moſt Lamentable thing, to ſee men call themſelves Sons of the Church, by a Subſcrption to her <hi>Articles,</hi> aſſume to themſelves the Title of Orthodox; and yet be the greateſt Blemiſhes of it; and forfeit that worthy appellation, by holding the Truth in unrighteouſneſs, Liveing as if the commandments had no Relation to the Creed; or as if by the Beliefe of what is
+<pb n="27" facs="tcp:56977:15"/>
+true, they could Satisfie for what is Evil. <hi>Pudet haec opprobria Nobis &amp;c.</hi> We may Bluſh at this ſo great wickedneſs. It was a charge long ago laid upon Chriſtianity; That it was better known in the Leaves of Books, then in the lives of Chriſtians; and hence it is, that many are hardened in their wickedneſs. It is the purity of Chriſtians lives, that is the beſt attractive to winn o<g ref="char:EOLhyphen"/>thers to the Love of Religion. This is the Gold that ſhould overlay the Temple of Chriſts Church: and would make others in Love with i'ts Beauty. This was one Hap<g ref="char:EOLhyphen"/>py means for the incredible increaſe of con<g ref="char:EOLhyphen"/>verts, in the Primitive times; even the ho<g ref="char:EOLhyphen"/>ly and examplary Lives of Chriſtians. But converts came in Slower when thoſe who profeſſed Religion, began to cool in their Zeal, and Slacken in the Strictneſs of their Lives. Thus you ſee all are to Set upon this work of ſelf reformation; not only Ma<g ref="char:EOLhyphen"/>giſtrates and Miniſters, but alſo private Perſons, all who take upon them the Office of reformers.</p>
+            <p n="2">2 I come now to Shew you, of what we all muſt reform ouy ſelves. And that I may not be tedious in Numbering particu<g ref="char:EOLhyphen"/>lars, I'll onely ſay in the Generall; we are to Reform of all Sins. We are to aban<g ref="char:EOLhyphen"/>don every evil way; we muſt not onely take care to avoid thoſe Sins, whereof we accuſe and condemn our Brother, but we ſhould free our ſelves from Sin in every kind.
+<pb n="28" facs="tcp:56977:16"/>
+Tho' we be no Swearers, no Drunkards, or Whoremaſters, or prophaners of the Sab<g ref="char:EOLhyphen"/>bath; tho' we be free from thoſe Sins, which bring us under the laſh of the Law; yet we may be very unfit to reform others. There may be Beams in our own eyes, that ſhould Firſt be caſt out, before we attempt the Re<g ref="char:EOLhyphen"/>formation of our Brethern.</p>
+            <p>There are indeed a Sort of Perſons, who if they do not live in Whoredom, and Groſs Intemperance; open Prophaneneſs, and Brutiſh ſenſuality, think all is well with them, and they cry out with the <hi>Phariſee,</hi> that they are not as other men are; Ex<g ref="char:EOLhyphen"/>tortioners, unjuſt, Adulterers: whereas they may be free from theſe more Groſs Practices, and yet need to be reformed, as well as others. <hi>O!</hi> be not deceived, you are not Poſſibly ſo and ſo Vitious in your outward converſation; but if there be with<g ref="char:EOLhyphen"/>in of the Heart, malice, hatred, envy, un<g ref="char:EOLhyphen"/>charitableneſs, ſelf exalting, Inordinate af<g ref="char:EOLhyphen"/>fections to the world, Covetouſneſs &amp;c. Theſe are enough to diſcourage a man from his Duty of reforming others; and may deſervedly bring him under the denomina<g ref="char:EOLhyphen"/>tion of a wicked Perſon, that needs to be re<g ref="char:EOLhyphen"/>formed. You will grant the Devils are bad-enough; it is becauſe of their Pride, en<g ref="char:EOLhyphen"/>vy &amp;c. For the Groſs Sins of the Fleſh, they are not lyable to them. Sirs! do we
+<pb n="29" facs="tcp:56977:16"/>
+ſee one living a Bruitiſh Senſual life, wal<g ref="char:EOLhyphen"/>lowing in his filthy luſts, laying the reins upon the Neck of his Impetuous corrupti<g ref="char:EOLhyphen"/>ons; ſuch a one is to be reformed? I, but would you Set about this work comfortably, and ef<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ectually; you muſt not onely free your ſelves from the Sins of which you would reform your Brother, but alſo from all Sins in every kind? If you be worldly, proud, Haughty, and be under the Power of earthly affections, you ſhould reform your ſelves, and caſt thoſe Beams out of your own eyes Firſt, before you attempt to caſt the Motes out of your Brother's eyes.</p>
+            <p n="3">3 I Now come to ſhew you why, and up<g ref="char:EOLhyphen"/>on what account we ſhould thus endeavour<g ref="char:EOLhyphen"/>to reform our Selves, before we begin to reform others.</p>
+            <p>
+               <hi>REASONS,</hi>
+            </p>
+            <p n="1">1 Unleſs we have (in ſome good degree) a clear conſcience, and be of an unblamea<g ref="char:EOLhyphen"/>ble life; we cannot find fault with our Bro<g ref="char:EOLhyphen"/>ther, and begin to reform him; but we Sin againſt our Office whether he be a Magiſ<g ref="char:EOLhyphen"/>trate that is to Puniſh offenders, or a Mi<g ref="char:EOLhyphen"/>niſter that Preacheth againſt Sin, or a pri<g ref="char:EOLhyphen"/>vate Perſon that reproves for Sin, or gives Information to the Magiſtrate againſt ſuch a Sin; unleſs he be ſomething clear in his
+<pb n="30" facs="tcp:56977:17"/>
+own Conſcience he cannot diſcharge this Dnty towards his Brother but he Sins a<g ref="char:EOLhyphen"/>gainſt his Office, and that becauſe the Office of a reformer Binds him to be holy, and of an unblameable life; what the Apoſtle faith of Goſpel <hi>Biſhops;</hi> may be ſaid of all that take upon them the Office of Reform<g ref="char:EOLhyphen"/>ers, They ſhould themſelves be Blameleſs. <note place="margin">1 <hi>Tim.</hi> 3. 2.</note> If a man would Reform another of Swear<g ref="char:EOLhyphen"/>ing, he himſelf ſhould be one that Fears an Oath; or if he would reform another of Drunkenneſs, he himſelf ſhould be very Temperate; if of uncleanneſs, he himſelf ſhould be very Chaſt. If a man would Re<g ref="char:EOLhyphen"/>form another of being contentious, and Quarrelſome, he himſelf ſhould be meek and Peaceable. If a man would Reform ano<g ref="char:EOLhyphen"/>ther of being carnal; he, <hi>(viz.)</hi> The Re<g ref="char:EOLhyphen"/>former <note place="margin">Gal. 6 4</note> ſhould be Spirituall. If any man be overtaken with a fault, ye that are Spiritu<g ref="char:EOLhyphen"/>al, reſtore ſuch a one. The Reformer, the Reſtorer muſt be Spiritual, it is no going to caſt the Motes out of our Brothers eye, while we have Beams in our own.</p>
+            <p n="2">2 Unleſs we be of inculpable lives, and have Conſciences (in ſome good degree) void of offence; we cannot reform our Bro<g ref="char:EOLhyphen"/>ther, ſo mildly and ſo Softly, but we ſhall awaken our own Conſiences and put them upon the ſame Office of accuſing and Con<g ref="char:EOLhyphen"/>demning us. What Stings and Gripes of
+<pb n="31" facs="tcp:56977:17"/>
+Conſcience doth a man that is wicked (and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onſcious to himſelf of his own wickedneſs) <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eet with, even when he is about to Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rm others from their Sins? ſurely he can<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot but think and think again, upon the A<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſtles words. <note n="†" place="margin">
+                  <hi>Rom.</hi> 2. 1.</note> 
+               <hi>Therefore thou art in excuſa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le O man, whoſoever thou art that Judgeſt; <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or wherein thou Judgeſt another thou condem<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt thy ſelf; for thou that Judgeſt, doeſt the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame things.</hi> One who takes upon him the Office of a Reformer ſhould himſelf, be a Conſcientious Liver, otherwiſe he doth but make way for his own Conſcience to Sting and gnaw him. Nay, it is hard for a wick<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d man to put any Face upon a work of re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ormation. We may ſee this verified in the <hi>Scribes</hi> and <hi>Phariſees,</hi> in their accuſeing a Woman taken in adultery. <hi>And they when they heard it; being convicted by their own Conſciences; went out, one by one, beginning at the eldeſt, even unto the Laſt.</hi> They were ſomething Severe with this Woman, till <hi>Chriſt</hi> bid them look unto themſelves; and were for Stoneing her, or puting her to ſome cruel Death, till <hi>Chriſt</hi> directed them how to Stone her? he that is without Sin among you, Let him Firſt caſt a Stone at her. When they heard this, then their own Conſciences began to Rouſe up and a<g ref="char:EOLhyphen"/>waken, whereupon they had none of them, the Face or Courage, to take up a Stone to Throw at this Woman. Therefore it
+<pb n="32" facs="tcp:56977:18"/>
+concerns us all to ſet upon this work o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſelf Reformation; in the Firſt place, to caſt the Beams out of our own eyes Firſt, before we attempt to caſt the Mo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es out of our Brothers eyes.</p>
+            <p n="3">3 Except we be of an holy unblameable Life, the reproof we give to others, will but be retorted upon our ſelves, and caſt as dung in our own Faces. One that is not of a Serious, ſober, conſcientious life, can Scarce find fault with his Offending Brother, but it's a Thouſand to one, he hears of his own Miſcarriages; and if his weak Brother have a hole in his Coat, at the time he is Reprooved, he will rent it out. A man cannot goe about to reform his Brother, but he will Inſtantly bring in the eyes of all o<g ref="char:EOLhyphen"/>thers upon himſelf. All mens eyes are up<g ref="char:EOLhyphen"/>on a reformer; and they look Strictly and very obſervingly upon ſuch a Perſon; and if any thing in the world be amiſs in ſuch a man; they will be ſure to mark it, and make more adoe of that then if it had been ſome greater fault in another Perſon. And how common a thing is it to ſee the re<g ref="char:EOLhyphen"/>proof given retorted and caſt in the teeth of him that gives it. What, do you reprove me of Sin? who is a greater Sinner then your ſelf? Doe you tell me of my Swear<g ref="char:EOLhyphen"/>ing, Intemperance, uncleaneneſs and the like, Who more addicted to ſuch Sins
+<pb n="33" facs="tcp:56977:18" rendition="simple:additions"/>
+then your ſelf? Pray begin at Home, Re<g ref="char:EOLhyphen"/>forme your ſelf. Some mens repoofes doe Recoil upon themſelves. And indeed every one deſires, if muſt be Smitten, that it may be by the Hand of the Righteous. <note n="*" place="margin">
+                  <hi>Pſal.</hi> 141. 5.</note> 
+               <hi>Let the Righteous ſinite me, it ſhall be a Kindneſs; and let him reprove me, it ſhall be an excellent Oyl, which ſhall not break my Head.</hi> The good advice of a wicked man, is Spoil'd by the Stinking breath of him that gives it.</p>
+            <p n="4">4 Unleſs we be ſomething clear in our Conſciences, and be of holy unblameable Lives; our Reforming others from their Sins, will but be looked upon as a piece of Prevarication, and <hi>Hipocrſie</hi> with Al<g ref="char:EOLhyphen"/>mighty God. This you have Eſpecially noted in the Text, thou <hi>Hipocrite</hi> Firſt caſt out the Beam out of thine own eye, and then ſhalt thou ſee clearly to caſt out the Mote out of thy Brothers eye. With<g ref="char:EOLhyphen"/>out this all our repooſes and admonitions, all our Complaints and Informations, in order to Reforme our Brother, will be looked upon, as a peice of Mockery. And indeed, what can be a greater piece of mockery then this, to cry out of Sin in others, and commit it our ſelves? Sirs will you cry out, and Complain of your Brothers faults, and never look upon your own! what is this but <hi>Hypocriſie?</hi> thou
+<pb n="34" facs="tcp:56977:19"/>
+               <hi>Hipocrite</hi> Firſt caſt out the Beam out of thine own eye. When a man goes to find fault with another, before he hath Reformed himſelf, this is <hi>Hipocriſie,</hi> for when a man Reformes another, he takes upon him a form of one that is zealous againſt Sin, and an Enemy to all Sinfull Practices; Now what is this but <hi>Hipocriſie?</hi> And indeed this is the way of the <hi>Hipo<g ref="char:EOLhyphen"/>crite,</hi> to fault others for what he himſelf is Guilty of.</p>
+            <p n="5">5 To Reforme another before we have Reformed our ſelves, is that which carries ſelf Condemnation a long with it. <note n="†" place="margin">
+                  <hi>Rom,</hi> 2, 1.</note> 
+               <hi>Thou Condemneſt thy ſelf; for thou that judgeſt doth the ſame things.</hi> To condemn another for Sin, when we are Sinners onr ſelves; is to Condemn our ſelves at the ſame time. We expoſe our ſelves to the juſt Judg<g ref="char:EOLhyphen"/>ment of the great God, who ſees all our works and Actions. And what an odd and abſurd thing is it, to find fault with others, for what we doe our ſelves. How ill doth the word of reproofe Sound in the Mouth of a wicked Perſon. To Steal and yet forbid Stealing; to Swear our ſelves, and yet forbid Swearing; To be Covetous, contentious, and yet cry out againſt theſe Sins in others; What is this but to draw down Judgments upon our
+<pb n="35" facs="tcp:56977:19"/>
+ſelves? Therefore that we may diſcharge this our Chriſtian Office and Duty to our Brother, caſting the Motes out of his eyes, we ſhould Firſt take care to caſt the Beams out of our own. This is the way and courſe we ſhould take, in Promoting a work of Reformation And indeed we cannot expect to be very ſucceſsfull in any of our endeavours to reform others, till ſuch time as we have done thus much for our ſelves.</p>
+            <p>I Now come to the Improvement and Application of this Point; and that Firſt by way of Inference, ſhould we Reform our ſelves before we begin to Reform our Bro<g ref="char:EOLhyphen"/>ther? Then</p>
+            <p n="1">1 This may let all of us ſee wherein we have miſt. For how often have <hi>Ma<g ref="char:EOLhyphen"/>giſtrates, Miniſters</hi> and private Perſons gone Irregularly about this work. Let the <hi>Magiſtrate</hi> firſt Reforme himſelf, and then he may better ſee how to execute <hi>Juſtice</hi> upon Offenders; Let the <hi>Miniſter</hi> firſt Reforme himſelf, and then he may bet<g ref="char:EOLhyphen"/>ter ſee how to Preach this up to others; Let a private Chriſtian firſt reforme him<g ref="char:EOLhyphen"/>ſelf, and then he will ſee better how to reforme his Brother; Let us caſt the Beams out of our own eyes firſt, and then we ſhall ſee more clearly to caſt the Motes
+<pb n="36" facs="tcp:56977:20"/>
+out of our Brother's eyes. How have we all been guilty of this <hi>Hyſteron Proteron,</hi> of putting the firſt thing in the Second place. Have we not begun at the wrong end of our work, and inverted the order of our duties, True! it is a duty to Reforme our Brother; but the duty of ſelf refor<g ref="char:EOLhyphen"/>mation, ſhould take the Firſt place. They are both Duties; but in the order; of Na<g ref="char:EOLhyphen"/>ture, the one ſhould preceed the other; we ſhould Firſt caſt the Beams out of our own eyes, before we caſt the Motes out of our Brother's eyes. And indeed I cannot but think, one great cauſe and reaſon, why <hi>Magiſtrates</hi> have been no more a terror un<g ref="char:EOLhyphen"/>to evil doers; and <hi>Miniſters</hi> no more ſuc<g ref="char:EOLhyphen"/>ceſsfull in their work, is becauſe both have been too Remiſs in their reformeing them<g ref="char:EOLhyphen"/>ſelves. They have not been thoſe holy examples unto others, as their Office and place required. So that all our Sermons againſt impiety and Prophaneneſs; through our own Perſonall Miſcarriages, have been but like arrows ſhot out of a weak bow, that comes not with force Sufficient to prick the Heart of the Proud Sinner. <hi>Miniſters</hi> may complaine of the ill Succeſs of their Labours, when they take no care to Prac<g ref="char:EOLhyphen"/>tice what they Preach to others. In vaine doe they think to reforme their People, till ſuch times as they firſt reforme them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>
+               <pb n="37" facs="tcp:56977:20"/>
+Should we firſt Reforme our ſelves before we reforme our Brother? Then</p>
+            <p n="2">2 This brings to all our mindes what is our work to day or where we are to begin the work of Reformation. We ſhould begin in the Firſt place with our Selves. Whoever would Promote a Re<g ref="char:EOLhyphen"/>formation work; muſt begin here. Let every man Sweep his own door and the Streets will be clean. So would every man Purge and cleanſe his own Heart, this work of Reformation would goe on in every place. A generall Reformation hath it's Riſe and beginning in Particu<g ref="char:EOLhyphen"/>lar. There muſt be a Perſonall Refor<g ref="char:EOLhyphen"/>mation before it come to a Family. Ci<g ref="char:EOLhyphen"/>ty, Countrey, or National Reformati<g ref="char:EOLhyphen"/>on.</p>
+            <p>This is the work of every particular Perſon. So that every one of us may ſay Particularly, this is my work, my care; we are to begin with our ſelves, and not ſuffer any unmortified luſt to abide in us, every eye that Offends, every hand that Sins, every Luſt that provokes, is to be parted with; tho' never ſo dear unto us: we muſt begin with our ſelves, and then in our Families, our Children and Servants, and endeavour the Reformation of all that are under our care and Charge. This is the way to promote this Bleſſed work of
+<pb n="38" facs="tcp:56977:21"/>
+Reformation, here we are to begin, we ſhould take this courſe, and obſerve this rule, and Labour with all care and Con<g ref="char:EOLhyphen"/>ſcience, to be unblameable in our ſelves and Converſations. And O that both you and I might begin here this day with our ſelves, with our own Hearts, and lives, and caſt the Beams out of our own eyes And to excite you to this work of ſelf Reformation, to preſs upon you the pow<g ref="char:EOLhyphen"/>er of Godlineſs, and the practice of Religion; I would recommend unto you theſe following Conſiderations.</p>
+            <p n="1">1 Conſider it is in vain to think the knowledge and Beliefe of the Chriſtian Religion, will availe us any thing without the Practice of it. <note n="†" place="margin">
+                  <hi>Jam,</hi> 1 26, 27.</note> 
+               <hi>If any man among you ſeem to be Religious, and Bridleth not his Tongue, but deceiveth his own Heart, that mans Religion is vain; pure Religion and un<g ref="char:EOLhyphen"/>defiled, before God and the Father, is this; to viſit the Fatherleſs and the Widows, in their Affiction; and to keep himſelf unſpotted from the world.</hi> 
+               <note n="*" place="margin">1 <hi>Tim.</hi> 6, 3,</note> 
+               <hi>If a man conſent not to the Doctrine which is according to Godlineſs, he is proud, knowing nothing.</hi>
+            </p>
+            <p>There muſt be a decorum kept between our Principles and our Practice. Our eyes ſhould direct our Feet, and we are called upon in Scripture to act as becometh Saints.
+<pb n="39" facs="tcp:56977:21"/>
+               <note n="†" place="margin">
+                  <hi>Ephe,</hi> 5, 3.</note> 
+               <hi>As becomes the Goſpel of Chriſt.</hi> 
+               <note n="*" place="margin">
+                  <hi>Rom.</hi> 16. 2.</note> 
+               <hi>As becomes thoſe who profeſs Godlineſs.</hi> There is a <note n="†" place="margin">
+                  <hi>Phil,</hi> 1, 27,</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Or comely Behavi<g ref="char:EOLhyphen"/>our, which if a Chriſtian doth not obſerve, he betrayes his high calling unto Scorn and and contempt, to look high and to live Low; O how rediculous appears it unto all men. It is not a forgetfull Hearer but a doer of the word, This man ſhall be Bleſſed in his deed. It is the doeing Practicall Chriſtian that ſhall Stand, when the empty Boaſter of his Faith ſhall fall. His Religion is vain, which brings not Letters Teſtimoniall from an holy Life. A <hi>Proteſtant</hi> Faith without a <hi>Proteſtant</hi> Practice is worth little. There are but too many, who think it's enough they are no <hi>Papiſts,</hi> nor <hi>Atheiſts,</hi> no <hi>Hereticks,</hi> or Er<g ref="char:EOLhyphen"/>roneouſs Perſons, but they Embrace, the Honeſt, old <hi>Orthodox</hi> truths, they Believe as well as any, and they are reſolved to live and die in this Faith. They are <hi>Pro<g ref="char:EOLhyphen"/>teſtant</hi> in Doctrine, and Recuſants in lives, not Conſidering that Hell is full, not onely of <hi>Pagans</hi> and <hi>Heathens,</hi> but alſo of ungod<g ref="char:EOLhyphen"/>ly Chriſtians. Alas the Kingdom of God reacheth further then the underſtanding onely; The <hi>Devils</hi> in Hell have admirable Knowledge, they both know and Believe, for they are ſaid to Believe and tremble. And doe we not read of <note n="*" place="margin">
+                  <hi>Mat.</hi> 7. 22, 23.</note> 
+               <hi>Many, that ſhall be brought in at that day, ſaying, Lord, Lord,
+<pb n="40" facs="tcp:56977:22"/>
+have we not Propheſied in thy name, and in thy name caſt out Devils, and in thy name, done many wonderfull works? And yet Chriſt will ſay unto them, depart from ye workers of Ini<g ref="char:EOLhyphen"/>quity; I know you not.</hi> If we renounce hereſy and error in Doctrine, why not pro<g ref="char:EOLhyphen"/>phaneneſs in our lives.</p>
+            <p n="2">2 Conſider that the Moral Gentiles and <hi>Heathens,</hi> will one day, riſe up to condemn Immoral, and Prophane Chriſtians. <note n="†" place="margin">
+                  <hi>Mat.</hi> 12. 41, 42,</note> 
+               <hi>The men of Nineveh ſhall riſe up in Judgement with this Generation, and ſhall Condemn it; becauſe they repented at the Preaching of Jonas, and behold a Greater here. The Queen of the South ſhall riſe up in Judgement with this Generation, and ſhall Condemn it; For She came from the utermoſt Parts of the Earth, to hear the Wiſdom of Solomon; and be<g ref="char:EOLhyphen"/>hold a Greater then Solomon is here.</hi> 
+               <note n="*" place="margin">
+                  <hi>Mat.</hi> 11, 21.</note> 
+               <hi>Wo unto thee Chorazin, Wo unto thee Bethſaida: for if the mighty works, which were done in you, had been done in Tyre and Sydon, they would have repented long ago, in Sack-Cloth and Aſhes.</hi> What fear and horror hath been upon <hi>Heathens</hi> Spirits, tho' they have had no Scripture to accuſe them? <hi>Hyſtories</hi> declare, that upon unjuſt, uncleane and Injurious Actions, they have not been able to reſt or Sleep. What ſayings have they to recommeud a virtuous life. <hi>Hic murus abeneus eſto, nil conſcire Sibi, nulla Palleſcereculpa.</hi>
+               <pb n="41" facs="tcp:56977:22"/>
+To be conſcious to a Mans ſelf of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o evil, nor unjuſt action; is that only <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing that may make a Man happy. That <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>razen Wall that will beat back all darts. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h that Chriſtians ſhould do ſo many <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hings to raiſe up Conſcience like a Lion <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Bear to roar within them, when even <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eathens have been affraid to make their Conſcience their Enemy and Adverſary! How Moderate and Temperate were ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of them in their Meats and Drinks? <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eneca, Plutarch, Plato,</hi> and ſome of the <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>toicks,</hi> ſpeak very high things about that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich is virtuous. Now what a Reproach <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s it to the glorious Goſpel, which we re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eive, to be out-done by them? What, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>all not the Word of God and the Goſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el of Chriſt teach us more Holineſs then <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Turks Alcoran?</hi> Shall not the Ten Commandments of God oblige us to more <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urity then the twelve Tables of the <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omans?</hi> O what a ſad diſhonour is this <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Truth and Knowledge of God! That among his People, ſhould be found <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oers of thoſe things which natural light <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould abhor.</p>
+            <p>Surely we can never grieve enough, to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee how many have no better a Title to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eligion, then what they can challenge <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y virtue of an over eager oppoſition, a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ainſt a diſſenting party; and have no
+<pb n="42" facs="tcp:56977:23"/>
+Arguments to evidence their Chriſtianity except their Zeal in controverted point may paſs for a demonſtration of it; a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> counting ſatyrical invectives and bitter r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>flections, to be inſtances of a Religio<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> zeal for God; which are but demonſtra<g ref="char:EOLhyphen"/>tions of their own folly and weakneſs doteing upon thoſe Images and Repre<g ref="char:EOLhyphen"/>ſentations, which their abuſed fancies hav<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuggeſted to them!</p>
+            <p n="3">3 Conſider that the degeneracy of th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> human nature appears in nothing more then in Mens proſeliting themſelves t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bruitiſh ſenſuality, wherein indeed th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Beaſts do ovtvie them; as being furniſhe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with greater exquiſitneſs of ſenſe for th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> entertainment of ſenſual Pleaſures. An<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yet how many are there, who Sacrifice thei<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Reaſon to their Appetite; and ſink them ſelves into a lower ſpecies; placing th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Beaſt above the Man; in purſuing no o<g ref="char:EOLhyphen"/>ther things then what may gratiſie thei<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> carnal Luſts? It is an opinion no leſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> falſe in it ſelf, then pernicious in its ef<g ref="char:EOLhyphen"/>fects, to all true Godlineſs; That Piet<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> divorcoth its Proſelytes from all pleaſan<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enjoyments, and eſpouſeth them to a me<g ref="char:EOLhyphen"/>lancholy and ſorrowful ſpirit: wherea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the time, when all true comfort bea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> date, is the Commencement of an hol<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Religious Life. And could we per<g ref="char:EOLhyphen"/>ſwad<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="43" facs="tcp:56977:23"/>
+Men to make an experiment of what we ſay; they would ſoon conclude, that the gleanings of Divine Joy are in<g ref="char:EOLhyphen"/>finitely to be preferred, before the Vin<g ref="char:EOLhyphen"/>tage of Worldly Pleaſures.</p>
+            <p n="4">4. Conſider that the conſtant Practiſe of Piety, and the conſcientious performing of Religious Duties, would ſoon overcome all thoſe trifling prejudices, wherewith the minds of many are prepoſeſſed. There are no ſuch inſuperable difficulties in the leading of an holy Life, as ſome do ſuggeſt to themſelves. The Lion in this way is not ſo fierce as he is painted. There are no ſuch dreadful apparitions in an holy Life, as a carnal deluded imagination re<g ref="char:EOLhyphen"/>preſents. The difficulties that occur in a Chriſtian courſe, are not half ſo many and great as they are made to be, by perſons prejudiced againſt it. Men firſt draw the Picture of an Holy Life, with a ſad and lowring countenance, and then they take occaſion to diſlike it. An Holy and Religious Life, looks upon us, with a ſerene and pleaſant Aſpect, and puts us upon no task, which our diligent endea<g ref="char:EOLhyphen"/>vours ſhall not overcome, and conquer. The Duties of a Chriſtian, in a little time, become eaſie and feaſible. Every Virtue is more facile and eaſy then its oppoſite Vice.</p>
+            <p n="5">
+               <pb n="44" facs="tcp:56977:24"/>
+5. Conſider the Promiſe and aſſurance of a Reward, infinitely above the labour of any ſervices that God requires, tends to the facilitateing of this neceſſary Work. That exceeding and eternal weight of Glory, which is promiſed to all that are truly Godly, is a powerful inducement to engage unto the practiſe of an Holy Religious Life. This is ſufficient to make the rougheſt places ſmooth, and level the higheſt Mountains into a plain, and make the Torrid Zone temperate. In the view of this Glory, all difficulties are ſwallow<g ref="char:EOLhyphen"/>ed up; and the edge of all dangers turn<g ref="char:EOLhyphen"/>ed. The encouragement to duty doth infinitely preponderate the difficulty of it. What tho we ſhould a little prick our ſingers, to get the Roſe of <hi>Sharon;</hi> and ſmite our foot on the ſtony Mountain, to gather the Lilly of the Valleys? What tho we toil all night, when we are cer<g ref="char:EOLhyphen"/>tain of ſuch a rich draught in the Morn<g ref="char:EOLhyphen"/>ing.</p>
+            <p n="6">6. Conſider that the aſſiſtance of the Spirit, ſo frequently promiſed in Holy Scripture, makes the power of Godlineſs, and the practiſe of Religion facile and eaſy. God doth not break the bruiſed Reed, nor quench the ſmoaking Flax, nor deſpiſe the day of ſmall things; inſomuch
+<pb n="45" facs="tcp:56977:24" rendition="simple:additions"/>
+that tho many Duties of Religion be ac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounted difficult; yet thoſe who give up <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hemſelves to the conſcientious perform<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce of them, have that aſſiſtance from an <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſeen hand, which facilitates and ſweetens <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir hardeſt labours.</p>
+            <p n="7">7. Conſider the ſeverity and juſt diſ<g ref="char:EOLhyphen"/>pleaſure of God, which you expoſe your <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elves unto, by your reiterated acts of Sin and Diſobedience. The Apoſtle was well acquainted with the force of this Argu<g ref="char:EOLhyphen"/>ment, <note place="margin">
+                  <hi>2 Cor.</hi> 5. 11.</note> 
+               <hi>knowing the Terror of the Lord, we <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erſwade Men.</hi> Let us then think, if we can bear the indignation of the Lord, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tand before the power of his Anger. Can we dwell with devouring fire, and lie <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>own in everlaſting burnings? <hi>&amp;c.</hi>
+            </p>
+            <p n="8">8. Conſider that there is an Intrinſique weakneſs writ upon all thoſe ſerene, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ranſitory delights; which makes them un<g ref="char:EOLhyphen"/>worthy the purſuit of thoſe who are truly wiſe. Thoſe ſublunary ſinful Pleaſures, like Flowers wither in our hands, and periſh in our embraceings. They ſalute our ſenſes, and then bid an eternal fare<g ref="char:EOLhyphen"/>wel. The Heavenly Herauld, who knew very well how to blazen this Worlds Coat of Arms, tells us it is made up of fading Flowers; when we come to gaſpe theſe things, they are but wind, and to
+<pb n="46" facs="tcp:56977:25"/>
+embrace them they are but a cloud. Thu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you ſee, how much it doth concern us to live in the diligent, and Conſcientiou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> practiſe of Religious Duties; to ſet abou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this neceſſary work of ſelf Reformation and be of inoffenſive and unblameabl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lives.</p>
+            <p>But methinks I here ſome one ſay What ſhall I do that I may Reform my ſelf; or what courſe ſhall I take that I may promote this neceſſary work of ſelf-refor<g ref="char:EOLhyphen"/>mation? And if there be any perſwad<g ref="char:EOLhyphen"/>ed (by what I have ſaid) to ſet upo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Practiſe of this Duty: I would further encourage them by preſcribing the follow<g ref="char:EOLhyphen"/>ing Directions.</p>
+            <p>If we would reform ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſelves, and a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bandon theſe courſes we have lien wallow<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ing in. 1. We ſhould engage in this wor<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with a full purpoſe, and reſolution to mak<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our way through the greateſt difficulties and ſeverities that are in it. It muſt b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> granted that an Holy Religious Life is no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eaſy unto Fleſh and Blood: And the way of ſin is not relinguiſht, without ſom<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Reluctancy at the firſt. The ſtrong Ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> armed will not preſently quit his Houſe and peaceably ſurrender to an Holy courſe the Right hand cannot be cut off, and the Right Eye pluckt out, without ſome diffi<g ref="char:EOLhyphen"/>cult
+<pb n="47" facs="tcp:56977:25"/>
+The new Birth is not accompliſh<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> without ſome throws, and the Devil <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill rage, when diſpoſeſſed. But to thoſe <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho put on reſolution and courage, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſolve to make their way over all Rubs <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Remora's; it doth at laſt become <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſy and pleaſant. It is only burdenſome <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thoſe who are weak through ſinful In<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mities; and painful only to ſuch who bour under their own dull and idle Spi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ts: if any therefore would ſet upon this <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ork, they muſt do it with courage. We <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſt put on Heroical Reſolutions, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>outly oppoſe the Impetuous deſires of our <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſitive powers.</p>
+            <p n="2">2. If we would reform our ſelves, we <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſt then deny the firſt ſolicitations, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſiſt the firſt motions of an Inordinate <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppetite. We muſt depreſs them, at the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſt riſing, and quench Luſt when it be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ins to ſmoak, before it break out into a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame: For then it will be unruly, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o hard to maſter, and keep under; we <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all beſt ſilence the clamours and impor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nities of a Temptation, by not liſtening <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o them; for the yielding to commit a in, leaves a greater propenſion, and deſire <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſin again: we ſhould therefore carefully <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heck the firſt riſings and Ebullitions of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur depraved and corrupted Natures.</p>
+            <p n="3">
+               <pb n="48" facs="tcp:56977:26"/>
+3. Would we Reform our ſelves, and lead unblameable and inoffenſive lives <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Then we muſt ſhew a more then ordinary ſeverity, againſt the ſins (that through Conſtitution or Cuſtom) we have the greateſt inclination unto. It is not ſo much as ſafe to argue with Temptations unto ſin; but we ſhould ſay to them, as our Saviour once ſaid to <hi>Peter, Get thee be<g ref="char:EOLhyphen"/>hind me Satan, for thou ſavoureſt not the things that be of God.</hi>
+            </p>
+            <p n="4">4. If we would reforme our ſelves; then we ought, as much as lies in our power, to ſhun whatſoever may probably be an occa<g ref="char:EOLhyphen"/>ſion of being tempted; eſpecially to ſuch ſins, as we are moſt inclined to. Are we prone to exceſs, either in Meat, or Drink? Are we apt ſuddenly to take fire and to be enflamed with Paſſions? Are we of a Luſtful Temper, or the like? Then we ſhould carefully avoid, as much as we can, all ſuch places, company and objects, as may be incentives to thoſe Appetites Thus in order to avoiding the Sin of Un<g ref="char:EOLhyphen"/>cleanneſs, the Wiſe Man adviſeth, not to come near the houſe of the Whoriſh Wo<g ref="char:EOLhyphen"/>man. And for the prevention of the Sin of Drunkenneſs; not ſo much as to look on the Wine, when it is Red, and gives its Colour in the Glaſs. It is in vain to
+<pb n="49" facs="tcp:56977:26"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hink of turning to God from our Sins; if we do not turn from the occaſion of them. If we have not ſtrength to turn from the occaſion of Sin, which is the leſs; <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>how can we avoid the Sin it ſelf, which is the greater? He that reſolves not to be burn't in the fire, muſt not come too near the flame. He that will not be in<g ref="char:EOLhyphen"/>ticed by the Adulterous Woman, muſt not come too near her dwelling If we ſeparate our ſelves firſt from the occaſion of ſin<g ref="char:EOLhyphen"/>ning, the Sin it ſelf will be more eaſily ſubdued. As the Husbandman firſt cuts away the under buſhes, and brambles; be<g ref="char:EOLhyphen"/>fore he lays the Ax to the root of the Tree.</p>
+            <p n="5">5. Would we Reform our ſelves? Then we ſhould be sure to keep up, and retain these holy purpoſes, and Reſolutions of a Reformation in us; ſome Men purpoſe to day to Reform, but are off it before to morrow. Their Holy Intentions and Re<g ref="char:EOLhyphen"/>ſolutions <note place="margin">
+                  <hi>Hoſ.</hi> 6, 4.</note> are very ſhort liv'd. There comes up a Worm that quickly conſumes <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heſe Gourds; their purpoſes vaniſh with<g ref="char:EOLhyphen"/>out execution, and continue but for a Sea<g ref="char:EOLhyphen"/>ſon If we would Reform. our purpoſes <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Reſolutions ſhould not be like Pil<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rims and Strangers, that lodge but for Night <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but they ſhould rather be like <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re upon the Alter, that never goes out.
+<pb n="50" facs="tcp:56977:27"/>
+Thoſe purpoſes that are not conſtant and Rooted, will die as ſoon as they begin to live.</p>
+            <p n="6">6. Would we ſet upon this neceſſary work of Self-Reformation? Then let us go forth in the Grace and Power of God, and not in our own ſtrength and skill. If we be not aſſiſted with Power from a<g ref="char:EOLhyphen"/>bove, our own courage, conduct and ſtrength, will be too little and defective<g ref="char:punc">▪</g> It is no thinking to conquer our Luſts by our own wooden Sword, but we muſt fight with the sword of the Spirit in this Holy war; we ſhould then ſay to all our ſins we intend to wage War with, as <hi>David</hi> did to <hi>Goliab: I come unto thee in the Name of the Lord whom thou haſt defied.</hi> I ſet upon mortifying theſe Sins, not by my own ſtrength, but in the power of Chriſt whoſe glory and honour my Sins would take away.</p>
+            <p n="7">7. Would we reforme our ſelves? Th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> let us labour to be affected as much as pos<g ref="char:EOLhyphen"/>ſible, with the love of God, and of Divi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> things. If the love of God be perfect<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in us, we ſhall find the work of Self-Re<g ref="char:EOLhyphen"/>formation, as pleaſant, and eaſie, as <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an wiſh. Love will maker<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hink na<g ref="char:EOLhyphen"/>thing precious, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat God will have us pa<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with: it will make us with <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ch<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arful<g ref="char:EOLhyphen"/>neſs,
+<pb n="51" facs="tcp:56977:27"/>
+part with a right eye a right hand any thing that is offenſive. This will cauſe us to believe no ſuffering harſh, that. God ſhall inflict; and no duty difficult that he ſhall command. <hi>This is the Love of</hi> 
+               <note place="margin">1 <hi>Joh,</hi> 5. 3.</note> 
+               <hi>God, that we keep his Commandments, and his Commandments are not grievous.</hi> If you love me, is a familiar and powerful form of ſpeech with us, to perſwade one ano<g ref="char:EOLhyphen"/>ther to the doing, or forbearing any thing. And what humane love and af<g ref="char:EOLhyphen"/>fection doth work among Men; that, and much more will be effected by Divine love. It is love alone that is aſhamed to men<g ref="char:EOLhyphen"/>tion difficulty. Nay, love welcomes diffi<g ref="char:EOLhyphen"/>culties, and pleaſeth it ſelf in hard inſtan<g ref="char:EOLhyphen"/>ces of obedience, becauſe, by them, it <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hews more of its real fervency.</p>
+            <p n="8">8 Would you reform your ſelves, and be helpt forward in this ſo Neceſſary a Du<g ref="char:EOLhyphen"/>ty? Then be often looking to thoſe lively Patterns and examples Set before you in holy Scripture. Theſe are of Singular uſe, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd advantage to be Seriouſly conſidered <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y you, for they plainly Shew the work not to be impoſſible, and Impracticable. We have the example of ſome, who lived <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Prophane places, have been compaſſed with all wickedneſs; and yet they have taken care in great meaſure, to keep them<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elves unſpotted, from the Sins of the time
+<pb n="52" facs="tcp:56977:28" rendition="simple:additions"/>
+and place wherein they lived; you read of a <hi>Lot</hi> in <hi>Sodom;</hi> of a <hi>Moſes,</hi> who choſe rarher to ſuffer Affiction, with the people of God, then to enjoy the Pleaſures of Sin, which are but for a ſeaſon; eſteeming the reproaches of <hi>Chriſt</hi> grater riches then the Treaſures of <hi>Egypt;</hi> and thereupon re<g ref="char:EOLhyphen"/>fuſed to be called the Son of <hi>Phaorohs</hi> daughter. <hi>Nicodemus</hi> a <hi>Phariſee,</hi> and a <note n="*" place="margin">
+                  <hi>Heb.</hi> 11, 24. 25 26,</note> great man in the <hi>Phariſees</hi> Councill, yet this is a man, that feared God, and was drawn aſide by their examples, Could they do thus, and cannot we, by the ſame Di<g ref="char:EOLhyphen"/>vine Power and help, do the like? They were men Subject to like Paſſions with us; they were Fleſh and Blood as we are, and Naturally weak and infirme as our ſelves, and God is the ſame in Power, and Good<g ref="char:EOLhyphen"/>neſs that he ever was. Here we have ex<g ref="char:EOLhyphen"/>amples added unto rules, and paterns un<g ref="char:EOLhyphen"/>to precepts. How many precepts have we in Scripture, to engage us to Chaſity, Pu<g ref="char:EOLhyphen"/>rity, Temperance, and ſo briety, meekneſs and patience, Faith and Charity, to an ho<g ref="char:EOLhyphen"/>ly reſolvedneſs of owning God, and adhere<g ref="char:EOLhyphen"/>ing to his ways, and unweariedneſs in doe<g ref="char:EOLhyphen"/>ing good, and to every other Grace and Virtue.</p>
+            <p>And have we not (beſides others) the examples of <hi>Joſeph</hi> for Chaſtity; <hi>Moſes</hi> for Meekneſs, <hi>Job</hi> for Patience, <hi>Abraham</hi> for
+<pb n="53" facs="tcp:56977:28"/>
+Faith, <hi>Doroas</hi> and <hi>Cornelius</hi> out St. <hi>Paul</hi> for an unwearied zeal, and <hi>Timothy</hi> for Temper<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce, and Sobriety. And above all, that example of all examples, for every thing that is holy, pure and Lovely, our <hi>Lord Jeſus Chriſt.</hi> Now whence is it that theſe holy examples are Recorded for us; but that we ſhould make it our Serious care and holy ambition to tranſcribe their vir<g ref="char:EOLhyphen"/>tues, to write after theſe fair Copies they have ſet us, and be followers of thoſe bleſ<g ref="char:EOLhyphen"/>ſed Souls, who are now in a ſtate of bliſs and Glory.</p>
+            <p n="9">9 That you may go forward with this Bleſſed work of reformation; ever when you begin to be weary, or faint in your mindes, then look unto <hi>Jeſus Chriſt,</hi> as Crucified for you. <note n="†" place="margin">
+                  <hi>Heb.</hi> 12. 2. 3.</note> 
+               <hi>Looking unto Jeſus, the Au<g ref="char:EOLhyphen"/>thor, and Finiſher of our Faith, who (for the Joy that was Set before him) endured the Croſs, deſpiſed the Shame, and is now Set down at the right hand of God in Glory. For conſider him that endured ſuch Contradiction of Sinners, leſt ye be weary, and faint in your mindes.</hi> Who knows but our looking up to a Crucified <hi>Chriſt</hi> may have the ſame in<g ref="char:EOLhyphen"/>fluence upon us, That a look of <hi>Chriſt</hi> had upon <hi>Peter,</hi> when he had thrice denied his Maſter? The Apoſtle then called to mind, what <hi>Jeſus</hi> ſaid unto him, and he went out and wept Bitterly. When we
+<pb n="54" facs="tcp:56977:29"/>
+Conſider how <hi>Chriſt</hi> was wounded for our Tranſgreſſions, and Bruiſed for our Ini<g ref="char:EOLhyphen"/>quities; when we conſider that we have Crucified the Lord of Life and Glory that our Sins Nail'd him to the Croſs, wonnded him the Heart, and put him to all the Griefe and Paines he underwent how can we be dearly Affected to theſe vile Bodies, or Solicitous for the Pleaſ<g ref="char:EOLhyphen"/>ing of our Appetites; and ſtudious about thoſe things which may be gratefull to the Fleſh? And as to the impure Pleaſures of this world, no Conſideration can be more Potent, to extinguiſh our deſires to them; then the Conſideration of <hi>Chriſt</hi> upon the Croſs</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:56977:29"/>
+            <head>BOOKS Printed for <hi>Thomas Parkhurſt,</hi> at the <hi>Bible</hi> and <hi>Three-Crowns in Cheapſide,</hi> near <hi>Mercers<g ref="char:EOLhyphen"/>Chapel.</hi>
+            </head>
+            <list>
+               <item>FOrty nine Sermons on the whole Epiſtle of the Apoſtle <hi>Paul</hi> to the <hi>Coloſſians,</hi> by Monſieur <hi>Daille,</hi> Miniſter of the Reformed Church in <hi>Paris, Folio.</hi>
+               </item>
+               <item>Sermons and Diſcourſes on ſeveral Di<g ref="char:EOLhyphen"/>vine Subjects; by the late Reverend and Learned <hi>David Clarkſon,</hi> B. D. and ſome<g ref="char:EOLhyphen"/>time Fellow of <hi>Clare-Hall, Cambridge, Folio.</hi>
+               </item>
+               <item>A Body of Practical Divinity conſiſt<g ref="char:EOLhyphen"/>ing of above One hundred ſeventy ſix Sermons on the Catechiſm of the Aſſem<g ref="char:EOLhyphen"/>bly of Diviſions at <hi>Weſtminſter.</hi> By <hi>Tho. Watſon,</hi> formerly Miniſter of <hi>Stephen Wal<g ref="char:EOLhyphen"/>brook. Folio.</hi>
+               </item>
+               <item>The Support of the Faithfull in <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; or <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sermon Preach<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in
+<pb facs="tcp:56977:30"/>
+the Wilderneſs, to the poor Proteſtants in <hi>France.</hi> By M. <hi>Baouſſon,</hi> an Eminent Mi<g ref="char:EOLhyphen"/>niſter, who was broke upon the Wheel at <hi>Montpelier, Novem. 6. 1698. Quarto.</hi>
+               </item>
+               <item>The Fountain of Life opened, or a Diſ<g ref="char:EOLhyphen"/>play of Chriſt in his Eſſential and Mediato<g ref="char:EOLhyphen"/>rial Glory; containing Forty two Sermons on various Texts. Wherein the Impetra<g ref="char:EOLhyphen"/>tion of our Redemption by Jeſus Chriſt is orderly unfolded, as it was begun, carried on, and finiſhed by his Covenant Tranfacti<g ref="char:EOLhyphen"/>on, myſterious Incarnation, bleſſed Offices, deep Abaſements and Supereminent Ad<g ref="char:EOLhyphen"/>vancement.</item>
+               <item>A Treatiſe of the Soul of Man, where<g ref="char:EOLhyphen"/>in the Divine Original, excellent and im<g ref="char:EOLhyphen"/>mortal Nature of the Soul are opened, its Love and impoved. The Exiſtence, Ope<g ref="char:EOLhyphen"/>rations and States of ſeparated Souls both in Heaven and Hell immediately after Death, aſſerted, diſcuſſed, and variouſly ap<g ref="char:EOLhyphen"/>plied. Divers knotty and difficult Queſti<g ref="char:EOLhyphen"/>ons about departed Souls both Philoſophi<g ref="char:EOLhyphen"/>cal and Theological, ſtated and determined.</item>
+               <item>Reformation of Manners Promoted; by a Perfect Abſtract of all the Canon and Statute-Laws in Force and Uſe (from the Reforma<g ref="char:EOLhyphen"/>tion to this Time) Concerning the Obſerva<g ref="char:EOLhyphen"/>tion of the Lord's-Day, commonly called Sunday; with the like Abſtract of the Act made the laſt Seſſions of Parliament, In<g ref="char:EOLhyphen"/>tituled, An Act for the more Effectual Sup<g ref="char:EOLhyphen"/>preſſing of Blaſphemy and Prophaneſs.</item>
+            </list>
+            <pb facs="tcp:56977:30"/>
+         </div>
+      </back>
+   </text>
+</TEI>
